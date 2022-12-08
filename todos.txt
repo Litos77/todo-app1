@@ -1,0 +1,4 @@
+prepare
+buy
+fix car
+clean the code
