@@ -1,4 +1,6 @@
 prepare
-buy
-fix car
+buy groceriesfix car
 clean the code
+study python
+study python
+add lastly
